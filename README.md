@@ -7,7 +7,6 @@ A hands-free mouse control system that enables users to navigate and interact wi
 ✅ Both Eyes Blink → Exit Program
 ✅ Smile Detection → Opens a New Tab
 ✅ Real-time Eye & Face Tracking
-✅ Works on Windows/Linux/macOS
 
 🛠️ Technology Stack
 Languages: Python
@@ -33,8 +32,6 @@ Detects double left-eye blinks for double-click.
 Detects both eyes blinking to exit the program.
 Detects smiling to open a new browser tab.
 Cursor & Click Control: Uses PyAutoGUI to simulate mouse interactions.
-
-
 🛠️ Customization & Settings
 Adjust blink sensitivity & detection thresholds in config.py.
 Modify gesture actions to customize functionality.
